@@ -1,3 +1,5 @@
+<p>
 Welcome to git
 git is awesome
 Excercise 7
+<p>	
