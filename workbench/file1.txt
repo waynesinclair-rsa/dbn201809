@@ -4,4 +4,4 @@ git is awesome
 Excercise 7
 </p>
 <p> This is Git </p>	
-Change on master
+Master
