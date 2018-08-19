@@ -1,0 +1,11 @@
+<p>
+Welcome to git
+git is awesome
+Excercise 7
+</p>
+<p> This is Git </p>	
+<<<<<<< HEAD
+Change on master
+=======
+Update on branch html
+>>>>>>> html
