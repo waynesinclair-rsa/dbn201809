@@ -2,4 +2,5 @@
 Welcome to git
 git is awesome
 Excercise 7
-<p>	
+</p>
+<p> This is Git </p>	
